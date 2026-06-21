@@ -1,5 +1,7 @@
 # Türkiyede staj bulmak için 5000 adet şirket
 
+<img width="1268" height="653" alt="image" src="https://github.com/user-attachments/assets/76cde5a4-a69d-4e8c-84ce-89d74c6e704b" />
+
 ulusal staj programında 5000 küsür şirketi çektim.
 şirket isimleri olduğu için önce  yapay zekaya koydum şirket kategrosi bulmak için
 sonrasında bunların konumlarını yandex map api ile tahmin ederek çektim
