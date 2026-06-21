@@ -15,3 +15,6 @@ bu şirketler ve veriler tamamen kamu ya açık bilgiler derlenerek  elde edilmi
 pull ve push request leri atabilirsiniz
 
 <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/c14fcea1-70eb-42d7-915f-80ce763be184" />
+
+
+direk isterseniz kendiniz hepsini indirin  yada direk release den çekin.
